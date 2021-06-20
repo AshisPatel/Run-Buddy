@@ -9,9 +9,7 @@ body    {
     font-family: Helvetica, Arial, sans-serif;
 }
 
-section {
-    padding: 60px; 
-}
+
 
 /* Styling the header */
 
@@ -73,6 +71,10 @@ footer a {
     color: #024e76;
 }
 
+section {
+    padding: 60px; 
+}
+
 /* Style for the HERO start */
 
 .hero {
@@ -90,10 +92,7 @@ footer a {
 .hero-form{
     color: #024e76;
     background-color: #fce138;
-    float: right; 
-    font-size: 10pt; 
     padding: 20px; 
-    line-height: 1.5;
     width: 500px;  
     border: solid 3px #024e76; 
     position: absolute;
@@ -102,7 +101,7 @@ footer a {
 }
 
 .hero-form h3{
-    font-size: 24pt;
+    font-size: 24px;
     margin: 0; 
 }
 
