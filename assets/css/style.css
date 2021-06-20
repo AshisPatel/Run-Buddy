@@ -9,6 +9,10 @@ body    {
     font-family: Helvetica, Arial, sans-serif;
 }
 
+section {
+    padding: 60px; 
+}
+
 /* Styling the header */
 
 header {
@@ -68,3 +72,65 @@ footer div {
 footer a {
     color: #024e76;
 }
+
+/* Style for the HERO start */
+
+.hero {
+    background-image: url(../images/hero-bg.jpg);
+    background-size: cover;
+    background-position:center;
+    height: 600px;
+    position: relative; 
+}
+
+/* Style for the HERO end */
+
+/* hero-form style start */
+
+.hero-form{
+    color: #024e76;
+    background-color: #fce138;
+    float: right; 
+    font-size: 10pt; 
+    padding: 20px; 
+    line-height: 1.5;
+    width: 500px;  
+    border: solid 3px #024e76; 
+    position: absolute;
+    bottom: 120px;
+    right: 140px; 
+}
+
+.hero-form h3{
+    font-size: 24pt;
+    margin: 0; 
+}
+
+.hero-form p{
+    margin: 5px 0 15px 0; 
+}
+
+.form-input{
+    width: 100%;
+    color: #024e76;
+    font-size: 16px;  
+    border: solid 1px #024e76;
+    padding: 7px 0px 7px 15px;
+    margin-bottom: 15px;
+    display: block;    
+}
+
+.hero-form label {
+    margin: 0px 5px; 
+}
+
+.hero-form button{
+    color: #fce138;
+    background-color: #024e76;
+    border: none; 
+    padding: 10px 20px; 
+    font-size: 16px; 
+}
+
+
+/* hero-form styl end*/
