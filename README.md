@@ -13,3 +13,5 @@ https://AshisPatel.github.io/run-buddy/
 ## Contribution
 
 Made with ❤️ by Ashis Patel 
+
+# Run Buddy Inc. 
