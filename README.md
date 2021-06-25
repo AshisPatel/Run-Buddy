@@ -14,4 +14,4 @@ https://AshisPatel.github.io/run-buddy/
 
 Made with ❤️ by Ashis Patel 
 
-# Run Buddy Inc. 
+### ©️2019 Run Buddy, Inc
