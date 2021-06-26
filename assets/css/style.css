@@ -118,39 +118,36 @@ section {
     background-image: url(../images/hero-bg.jpg);
     background-size: cover;
     background-position:center;
-    height: 600px;
-    position: relative; 
+    display: flex;
+    justify-content: center; 
+    flex-wrap: wrap; 
 }
 
 /* Style for Hero Content*/
-
 .hero-content {
-    display: inline-block; 
-    margin: 35px;
-    width: 30%; 
+    width: 35%;
+    text-align: right;
+    margin: 3.5%;
+    color: #fff;
+    font-size: 18px;
+    line-height: 1.3; 
 }
 
 .hero-content h2 {
     font-style: italic;
+    font-size: 55px;
     color: #fce138;
 }
-
-.hero-content p {
-    color: #ffffff
-}
-
 
 /* hero-form style start */
 
 .hero-form{
     color: #024e76;
     background-color: #fce138;
-    padding: 20px; 
-    width: 500px;  
-    border: solid 3px #024e76; 
-    position: absolute;
-    bottom: 120px;
-    right: 140px; 
+    padding: 20px;  
+    border: solid 3px #024e76;
+    width: 40%;
+    margin: 3.5%;  
 }
 
 .hero-form h3{
@@ -163,7 +160,6 @@ section {
 }
 
 .form-input{
-    width: 100%;
     color: #024e76;
     font-size: 16px;  
     border: solid 1px #024e76;
