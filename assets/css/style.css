@@ -116,7 +116,23 @@ section {
     position: relative; 
 }
 
-/* Style for the HERO end */
+/* Style for Hero Content*/
+
+.hero-content {
+    display: inline-block; 
+    margin: 35px;
+    width: 30%; 
+}
+
+.hero-content h2 {
+    font-style: italic;
+    color: #fce138;
+}
+
+.hero-content p {
+    color: #ffffff
+}
+
 
 /* hero-form style start */
 
@@ -164,6 +180,7 @@ section {
 
 
 /* hero-form styl end*/
+/* Style for the HERO end */
 
 /* Section style start */
 
