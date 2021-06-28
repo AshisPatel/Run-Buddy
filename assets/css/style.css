@@ -4,6 +4,10 @@
     box-sizing: border-box; 
 }
 
+html {
+    scroll-padding-top: 80px; 
+}
+
 /* variables to apply to optimize code */ 
 :root {
    --primary-color: #fce138; 
